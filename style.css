@@ -1,0 +1,185 @@
+.cardmain {
+    height: 900px;
+    width: 1000px;
+    background-color: #ffffff;
+}
+
+
+.card { 
+    font-family: Arial;
+    box-sizing: border-box;
+    background-color: rgba(0, 0, 0, 0.527)
+    height: 900px;
+    width: 650px;
+    padding: 0 0 0 0px;
+    float: right;
+    
+}
+
+.movup {
+    float: left ;
+    box-sizing: border-box;
+    height: 900px;
+    width: 300px;
+    background-color: #4e3242;
+    
+}
+
+
+.card1 {
+    outline-style: solid;
+    float: left;
+    width: 1000px;
+    background-color: rgb(255, 255, 255);
+    box-sizing: border-box;
+}
+
+
+
+
+
+
+.logo1 {
+    padding-top: 15px;
+}
+
+.discri {
+    font-size: 10px;
+    color: white;
+    box-sizing: border-box;
+    padding: 10px;
+}
+
+.discri2 {
+    padding-top: 30px;
+    font-size: 11px;
+    color: white;
+    box-sizing: border-box;
+}
+
+.discri22 {
+    font-size: 14px;
+    padding-left: 35px;
+    box-sizing: border-box;
+}
+
+.discri222 {
+    font-size: 14px;
+    padding-left: 35px;
+    box-sizing: border-box;
+}
+
+.more {
+    padding-top: 60px;
+    color: white;
+    font-size: 10px;
+}
+
+.more1 {
+    padding-left: 35px;
+    font-size: 14px;
+}
+.more2 {
+    padding-left: 35px;
+    font-size: 14px;
+}
+.more3 {
+    padding-left: 35px;
+    font-size: 14px;
+}
+.more4 {
+    padding-left: 35px;
+    font-size: 14px;
+}
+.more5 {
+    padding-left: 35px;
+    font-size: 14px;
+}
+.more6 {
+    padding-left: 35px;
+    font-size: 14px;
+}
+.more7 {
+    padding-left: 35px;
+    font-size: 14px;
+}
+.more8 {
+    padding-left: 35px;
+    font-size: 14px;
+}
+.more9 {
+    padding-left: 35px;
+    font-size: 14px;
+}
+.more10 {
+    padding-left: 35px;
+    font-size: 14px;
+}
+
+
+
+
+
+
+
+.deksiothtes {
+    padding: 35px 0 0 20px;
+    font-size: 20px;
+    color: #4e3242;
+}
+
+.deksiothtestitlo {
+    font-size: 30px;
+}
+
+.deksiothtesdescri {
+    padding: 20px;
+}
+
+.spoudes {
+    padding: 35px 0 0 20px;
+    font-size: 20px;
+    color: #4e3242;
+}
+
+.spoudestitlo {
+    font-size: 30px;
+}
+
+.spoudesdiscri {
+    padding: 20px;
+}
+
+.ptyxio_hm {
+    color: black;
+}
+
+.pistopoihtika {
+    padding: 35px 0 0 20px;
+    font-size: 20px;
+    color: #4e3242;
+}
+
+.pistopoihtikatitlo {
+    font-size: 30px;
+}
+
+.pistopoihkadescri{
+    padding: 20px;
+}
+
+.seminaria {
+    padding: 35px 0 0 20px;
+    font-size: 20px;
+    color: #4e3242;
+}
+
+.seminariatitlo {
+    font-size: 30px;
+}
+
+.seminariadescri {
+    padding: 20px;
+}
+
+
